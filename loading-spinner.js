@@ -1,0 +1,1 @@
+Polymer('loading-spinner');
